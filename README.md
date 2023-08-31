@@ -3,7 +3,7 @@
 <p align="center">Descubre y explora una amplia variedad de canales de streaming de diferentes plataformas, ¡todo en un solo lugar!</p>
 
 <p align="center">
-  <img src="./resources/Diagrama.png" alt="Diagrama">
+
 </p>
 
 ## Glosario de Términos
